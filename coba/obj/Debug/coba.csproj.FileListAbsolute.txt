@@ -1,0 +1,15 @@
+D:\net proyek\coba\coba\bin\Debug\Database1.mdf
+D:\net proyek\coba\coba\bin\Debug\Database1_log.ldf
+D:\net proyek\coba\coba\bin\Debug\coba.exe.config
+D:\net proyek\coba\coba\bin\Debug\coba.exe
+D:\net proyek\coba\coba\bin\Debug\coba.pdb
+D:\net proyek\coba\coba\bin\Debug\EntityFramework.dll
+D:\net proyek\coba\coba\bin\Debug\EntityFramework.xml
+D:\net proyek\coba\coba\obj\Debug\coba.csprojAssemblyReference.cache
+D:\net proyek\coba\coba\obj\Debug\coba.Form1.resources
+D:\net proyek\coba\coba\obj\Debug\coba.Properties.Resources.resources
+D:\net proyek\coba\coba\obj\Debug\coba.csproj.GenerateResource.cache
+D:\net proyek\coba\coba\obj\Debug\coba.csproj.CoreCompileInputs.cache
+D:\net proyek\coba\coba\obj\Debug\coba.csproj.CopyComplete
+D:\net proyek\coba\coba\obj\Debug\coba.exe
+D:\net proyek\coba\coba\obj\Debug\coba.pdb
